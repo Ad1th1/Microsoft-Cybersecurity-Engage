@@ -1,0 +1,26 @@
+1 Assignment on Autopsy
+
+Digital Evidence:
+  -> information stored or transmitted in binary digital form
+  -> record evidences of everything done
+  
+Digital Forensics:
+  -> recover evidence that user hid, deleted or left behind
+  
+Data recovery 
+  -> recovering info deleted by mistake or lost during a power surge
+  
+Forensics:
+  -> application of science to solve legal problems
+
+Digital Forensics:
+ - Criminal investigation : child pornography, identity theft and homicides
+ - Civil Litigation
+ - Intelligence
+ 
+-> Bit = 0 or 1
+-> Byte = group of 8 bits
+
+-> file header and footer describe file type 
+-> called file signature
+-> header = first bytes
