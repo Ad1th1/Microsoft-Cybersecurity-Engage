@@ -3,3 +3,33 @@ Quiz
 Summary : reverse-engineering, static and dynamic,memory
 
 Reverse Engineering
+
+-> use C, Java, Python, x86, x86-64
+
+-> static techniques 
+    - no execution
+    
+-> dynamic techniques
+     - run-time
+     - easy to find dead code
+     
+Memory
+-> divided into segment
+
+high address
+|
+v
+|
+v
+low address
+
+environment variables, arguments
+
+stack(grows downwards) = storage of temporal variables of limited size
+heap(grows upwards) = storage of dynamic variables
+.bss = stores non-initialized variables
+.data = stores initialized variables
+.text = program instructions and constants
+
+# stack and heap 
+
