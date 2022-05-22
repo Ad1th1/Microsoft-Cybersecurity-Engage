@@ -1,10 +1,10 @@
 Quiz
 
-Summary : reverse-engineering, static and dynamic,memory
+Summary : reverse-engineering, static and dynamic,memory, context switch
 
 Reverse Engineering
 
--> use C, Java, Python, x86, x86-64
+-> use C, Java, Python, x86, x86-64, stack and memory structure
 
 -> static techniques 
     - no execution
@@ -33,3 +33,51 @@ heap(grows upwards) = storage of dynamic variables
 
 # stack and heap 
 
+push = store on top of the stack
+pop = retrieve something from the top of the stack
+
+how do running programs work in memory
+-> context switch
+
+stacks:
+-> EBP = stack base pointer
+-> ESP 
+
+-> EIP = program counter = address of next instruction to be executed
+
+
+program is divided in instructions located in memory addresses
+
+Context switch = performed when program moves from one function to another
+
+decompiling = high-level 
+disassembling = low-level
+others = debuggers = run-time
+
+decompiling:
+-> translate binary to source code
+-> opposite of compilation
+Eg: in Java
+    compile .java -> .class
+    decompile .class -> .java
+
+obfuscation : makes decompilation difficult
+-> removing line-breaks
+-> changing variable names
+-> powerful tool, reorganizes the code
+
+disassembly:
+-> object code is translated into assembly code
+-> C from .o to .asm
+-> ## obfuscation
+
+
+decompiling vs disassembling
+
+
+decompilers
+-> depend on java(jd) or c(boomerang)
+
+Boomerang workflow
+-> Load -> Decode -> Decompile -> Generate Code
+-> powerful   
