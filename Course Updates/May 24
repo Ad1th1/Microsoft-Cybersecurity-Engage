@@ -1,0 +1,76 @@
+Interactive Session on ML in cybersecurity
+
+ -> Saudi Aramco = first mass wipe cyber attac
+ 
+ 
+ Microsoft Defender for Endpoint
+ -> Threat and Vulnerability Management
+ -> Attack Surface Reduction
+ -> Next Generation Protection
+ -> End-point detection and response
+ -> Auto investigation and remediation
+ 
+ -> Threat Hunters
+ 
+ -> Ensemble Model
+ -> Javascript Banking Trojan
+ 
+ 
+ 
+ Malware Encounter at Client
+ Cloud Metadata -> if suspicious send to cloud and assign risk factor after analysis
+ Sample
+ Detonate in a sandbox
+ Big Data
+ 
+ Types of ML
+ -> Supervised
+ -> Unsupervised
+ 
+ Specially crafted files -> could be identified as anamoly even if they aren't
+ -> identify signature fragments detected as malicious
+ -> identify automated detection techniques
+ -> inject signature fragments into clean files
+ -> add crafted files to VirusTotal using TOR
+ -> Automation signs, targeted clean files, multiple vendors have FP's
+ 
+ Ensemble Classifiers:
+ -> research on adversarial attack against deep-learning classifiers showing stcked ensemble helpers defend against attacks
+ 
+ Feautures:
+ Machine attributes : OS version, processor, security settings
+ 
+ Behavioral, locale, partial and fuzzy hashes, full file content, file properties, signer info
+ 
+ Threat Scenarios:
+ Classifiers:
+ -> Malware
+ -> Clean
+ -> PUA
+ -> Enterprise Specific
+ -> File-type specific
+ 
+-> Boolean and Logistic STacking
+
+-> Model Selection:
+   > LightGBM
+   > Logistic regression
+   > XGBoost
+   > Averaged Perceptron
+   > DNN
+   > Fast Tree
+   
+Experiment Design:
+-> Supervised training -> Train
+-> Optimization -> Validate
+-> Evaluation -> Test
+
+Data Leaks
+
+
+-> Client AI and powerful, scalable cloud AI to protect patient 0
+-> deep expertise in security and AI
+-> focus on prevention, behavioral and EDR as a backstop
+
+
+
