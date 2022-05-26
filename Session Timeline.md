@@ -36,16 +36,7 @@
 - Session on assembly -> not attended due to class
 - Survey -> filled 
 
-
-
-
-
-
-
-
-
-
-
-
-
+**!** 26/5
+- Session on IP -> not attended due to RSM interview
+- Assignement -> yet to be completed
 
