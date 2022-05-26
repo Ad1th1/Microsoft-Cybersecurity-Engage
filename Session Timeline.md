@@ -13,8 +13,8 @@
 > Assignment 1 = Quiz -> submitted
 
 19/5
-> Session (forensics) -> watched
-> install autopsy -> installed
+> Session (forensics) -> watched\
+> install autopsy -> installed\
 > Assignment 2 = forensic tasks -> submitted
 
 20/5
