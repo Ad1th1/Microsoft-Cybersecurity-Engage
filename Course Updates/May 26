@@ -1,0 +1,12 @@
+
+# Linux Commands for IP
+> sudo iptables -L
+> sudo iptables -A INPUT -p icmp -j ACCEPT
+> sudo -lc
+> sudo iptables-save > /etc/iptables.conf
+> gedit /etc/rc.local
+  > in file add iptables-restore < /etc/iptables.conf   
+    ~ when computer reboots, all previous files stored are restored
+    
+    
+  
