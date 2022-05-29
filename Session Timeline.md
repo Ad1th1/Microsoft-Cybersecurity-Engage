@@ -24,10 +24,10 @@
 **!** 23/5
 - Q & A session -> not attended due to classes
 - Supplementary Contents 
-  > **! Stuxnet Video 1**\
-  > Stuxnet Video 2 -> watched \
-  > **! Stuxnet Video 3 **\
-  > **! Research Paper**
+  **! Stuxnet Video 1**\
+  Stuxnet Video 2 -> watched \
+  **! Stuxnet Video 3 **\
+  **! Research Paper**
 
 24/5
 - Webinar on ML in the cybersecurity landscape -> attended
