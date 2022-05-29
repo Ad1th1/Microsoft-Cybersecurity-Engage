@@ -6,7 +6,7 @@
 - Hip Hip Hooray!
 
 **!** 17/5 
-- Introductory session -> partially watched due to exam, recording unavailable
+- **! Introductory session -> partially watched due to exam, recording unavailable**
 
 18/5 
 - Session (intro to cybersec) -> watched
@@ -24,19 +24,21 @@
 **!** 23/5
 - Q & A session -> not attended due to classes
 - Supplementary Contents 
-  > Stuxnet Video 1\
+  > **! Stuxnet Video 1**\
   > Stuxnet Video 2 -> watched \
-  > Stuxnet Video 3\
-  > Research Paper
+  > **! Stuxnet Video 3 **\
+  > **! Research Paper**
 
 24/5
 - Webinar on ML in the cybersecurity landscape -> attended
 
 **!** 25/5
-- Session on assembly -> not attended due to class
+- **! Session on assembly -> not attended due to class **
 - Survey -> filled 
 
 **!** 26/5
-- Session on IP -> not attended due to RSM interview
-- Assignement -> yet to be completed
+- **! Session on IP -> not attended due to RSM interview **
+- **! Assignement -> yet to be completed **
 
+**!** 27/5
+- **! Session on MITRE  Attackframework -> not attended due to class**
