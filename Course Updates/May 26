@@ -1,12 +1,43 @@
+Summary:
+1. Storing IP table rules permenantly
+2. Managing 
+
 
 # Linux Commands for IP
+
 > sudo iptables -L
 > sudo iptables -A INPUT -p icmp -j ACCEPT
 > sudo -lc
 > sudo iptables-save > /etc/iptables.conf
 > gedit /etc/rc.local
-  > in file add iptables-restore < /etc/iptables.conf   
+  > in file add `iptables-restore < /etc/iptables.conf`   
     ~ when computer reboots, all previous files stored are restored
     
-    
+- Two ways to introduce rules:
+  1. in the terminal
+  2. using a file -> extension .sh -> chmod +x for execution
   
+## To add iptable rules to log and move to another machine
+** ! didnt work for me **
+- sudo iptables -A INPUT -m limit --limit 2/min -j LOG --log-prefix "iptables: " --log-level 4
+- sudo iptables -L
+- sudo cat /var/log/iptables.log
+
+## block IP addresses from one machine
+    - ping to check if two IP addresses are on the same network
+    - sudo iptables -L --line-numbers
+    - create rule to block packets
+    - sudo iptables -A input -p icmp -j DROP
+    
+    
+## create a rule to allow ssh and allow a connection 
+   - ssh mooc@10.0.2.17 -p 4321  -> in kali
+   - in LINUX
+      sudo iptables -L
+      sudo iptables -P INPUT DROP
+      sudo iptables -P FORWARD DROP
+      sudo iptables -A INPUT -p tcp -s 10.0.2.16(linux source ip) -d 10.0.2.17 (kali destination ip) --dport 4321 -m state --state  NEW,ESTABLISHED -j ACCEPT
+      sudo iptables -A OUTPUT -p tcp -s 10.0.2.17(kali source ip) -d 10.0.2.16 (linux destination ip)  -m state --state  NEW,ESTABLISHED -j ACCEPT
+      
+   
+   
