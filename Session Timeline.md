@@ -23,10 +23,10 @@
 
 **!** 23/5
 - Q & A session -> not attended due to classes
-- Supplementary Contents 
+- Supplementary Contents \
   **! Stuxnet Video 1**\
-  Stuxnet Video 2 -> watched \
-  **! Stuxnet Video 3 **\
+  Stuxnet Video 2 -> watched 
+  **! Stuxnet Video 3**\
   **! Research Paper**
 
 24/5
