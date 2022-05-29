@@ -33,12 +33,12 @@
 - Webinar on ML in the cybersecurity landscape -> attended
 
 **!** 25/5
-- **! Session on assembly -> not attended due to class **
+- **! Session on assembly -> not attended due to class**
 - Survey -> filled 
 
 **!** 26/5
-- **! Session on IP -> not attended due to RSM interview **
-- **! Assignement -> yet to be completed **
+- **! Session on IP -> not attended due to RSM interview**
+- **! Assignement -> yet to be completed**
 
 **!** 27/5
 - **! Session on MITRE  Attackframework -> not attended due to class**
