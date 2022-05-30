@@ -1,3 +1,0 @@
-- Bandit => upto Level 20
-- PicoCTF => 17350 points
-- TryHackMe => 3% of learners
