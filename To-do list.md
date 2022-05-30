@@ -1,3 +1,4 @@
+## Topics Covered:
 1. Forensics -> Autopsy     -> do CTF's and THM room
 2. Reverse Engineering and Assembly   -> do pwncollege and picoctf
 3. Stuxnet    -> read, research and understand
@@ -6,7 +7,7 @@
 6. MitreAttack -> read up and understand framework
 
 
-Projects:
+## Projects:
 1. Quantum Computation using AI
 2. Make an OS
 3. Make a video and blog post on Stuxnet
