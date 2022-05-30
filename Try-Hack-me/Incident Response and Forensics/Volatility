@@ -19,4 +19,5 @@
    usually output a .raw file
    
     
+ - Profiles determine how Volatility treats our memory image since every version of Windows is a little bit different.
     
