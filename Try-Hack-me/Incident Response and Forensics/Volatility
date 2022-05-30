@@ -1,0 +1,22 @@
+- invaluable tool for Blue-teamer
+
+- Capturing volatile data in a computer's memory dump enables investigators and examiners to do a full memory analysis and access data including:
+   - browsing history\
+   - encryption keys\
+   - chat messages\
+   - clipboard contents \
+   - run-time system activity\
+   - open network connections (often these artifacts are only found in RAM)\
+   - recently executed commands and processes\
+   - injected code fragments\
+   - memory stored before shut down or crash
+   
+- Tools for Memory Capture:
+    FTK Imager - Link\
+    Redline - Link *Requires registration but Redline has a very nice GUI\
+    DumpIt.exe\
+    win32dd.exe / win64dd.exe
+   usually output a .raw file
+   
+    
+    
