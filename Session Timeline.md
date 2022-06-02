@@ -53,4 +53,4 @@
 **!** 1/6
  - **! Introduction to common network vulnerabilities: Password sniffing, how to use Wireshark, Session hijacking, ARP spoofing, Denial of service attack -> not attended due to class **
  - **!watch part 2 of video upto timestamp 8:50**
- - **! Assignment 7**
+ - **! Assignment 7 -> yet to complete**
