@@ -48,7 +48,9 @@
 
 **!** 31/5
  - **! Malware Analysis Tools, and Introduction to common vulnerabilities and exposures: Programs in C -> not attended due to class**
+ - **! Assignment 6 -> yet to complete**
 
 **!** 1/6
  - **! Introduction to common network vulnerabilities: Password sniffing, how to use Wireshark, Session hijacking, ARP spoofing, Denial of service attack -> not attended due to class **
+ - **!watch part 2 of video upto timestamp 8:50**
 
