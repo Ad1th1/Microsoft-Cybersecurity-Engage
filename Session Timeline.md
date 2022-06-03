@@ -1,3 +1,17 @@
+Topics to focus on:
+1. Forensics (autopsy)
+2. Reverse Engineering
+3. Federated Learning
+4. Stuxnet
+5. IP tables 
+6. MITRE Attacks
+7. Malware
+8. Wireshark and other networking aspects
+9. Cross scripting  
+10. Metasploit
+11. SQL 
+12. Pentesting
+
 9/5 
 - Prerequisite Test
 
@@ -54,3 +68,10 @@
  - **! Introduction to common network vulnerabilities: Password sniffing, how to use Wireshark, Session hijacking, ARP spoofing, Denial of service attack -> not attended due to class **
  - **!watch part 2 of video upto timestamp 8:50**
  - **! Assignment 7 -> yet to complete**
+
+**!** 2/6
+ - **! **!** 1/6
+ - **! Cross Site Scripting (XSS), SQL injection, undesired data disclosures, Pentesting, and Metasploit. **
+
+
+
