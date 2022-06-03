@@ -57,12 +57,14 @@ Topics to focus on:
 **!** 27/5
 - **! Session on MITRE  Attackframework -> not attended due to class**
 
-**!** 30/5
- - **! Session on  IDS, SIEM, Malware and APT -> not attended due to class**
+30/5
+ - Session on  IDS, SIEM, Malware and APT -> watched
+ - Assignment 6 -> Submitted
+ - **to watch -> Linux bit an dread up on some stuff**
 
 **!** 31/5
  - **! Malware Analysis Tools, and Introduction to common vulnerabilities and exposures: Programs in C -> not attended due to class**
- - **! Assignment 6 -> yet to complete**
+ - **! Assignment 7 -> yet to complete**
 
 **!** 1/6
  - **! Introduction to common network vulnerabilities: Password sniffing, how to use Wireshark, Session hijacking, ARP spoofing, Denial of service attack -> not attended due to class **
