@@ -1,3 +1,5 @@
+- check the linux bit in the video
+
 - Intrusion Detection Systems:
   - goal: identify entities trying to subvert security controls
   - IDS vs firewall?
@@ -69,3 +71,27 @@
   - creating the rules
     - we can have reserved words
  
+- SIEM = Security Information and Event Management
+  - anivirus, ID, firewall -> all need to be managed by SIEM
+  - helps us manage incidents
+  - able to speak to several tools
+  - receive logs and analyze them
+  - data analysis is part of the job
+  - produce grahs and reports in real time
+  - turn raw info -> events
+  - Origin:
+    - Secrity Information Management(SIM) = gathering data from sources
+    - Security Event Management(SEM) = tracks status of security events
+  - event status?
+  - phases of attack management:
+    - data collection and preprocessing
+    - threat detection
+    - threat categorization and triage
+    - threat mitigation
+    - threat recovery
+    
+   - ticket-based way to manage incidents
+ 
+ 
+    
+
