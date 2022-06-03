@@ -1,5 +1,4 @@
-- check the linux bit in the video
-
+**! check the linux bit in the video & RAT & signature & APT**
 - Intrusion Detection Systems:
   - goal: identify entities trying to subvert security controls
   - IDS vs firewall?
