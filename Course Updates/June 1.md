@@ -1,4 +1,5 @@
-16 minutes
+18 minutes -> ARP spoofing on linux not watched
+28 minutes -> DOS on apache
 
 - password sniffing = attack to capture passwords in plain text
   > - man in the middle attack 
@@ -40,5 +41,37 @@
   > - less secure cookies = keyboard language
   > - more secure cookies = browsed web-pages
 
-- 
+- ARP Spoofing:
+  - ARP poisoning -> google it, lol!
+  - 16 minutes
+  - fake mac is sent and data is sent to person intercepting
+
+- Preventive measures for ARP spoofing
+  - static ARP tables can be used
+  - Intrusion detection systems(IDS's) to filter traffic
+  - linked to man in the middle attacks -> session hijacking
+
  
+- Denial of Service - DOS
+  - prevents users from accessing a service
+  - flooding is a common attack
+  - Eg: HSBC cyber attack due to DOS Attack
+  - Types:
+    - smurfing / flooding -> lots of ping messages(sent to identify live hosts)
+    - slowloris -> establish multiple connections to a server 
+      - countermeasures:   1. firewall configuration  2. load balancers to allow full HTTP connections
+  
+- Distributed Denial of Service:
+  - DOS prevents users from accessing a service
+  - sometimes caused by human errors
+ 
+ 
+ How can DOS be identified?
+ - slow network performance
+ - inability to access a service or web-site
+ - lots of spam messages received
+ 
+ Preventive measures for DOS
+ - install antivirus
+ - proper firewall configuration
+ - be cautious and sensible when opening emails and other links
