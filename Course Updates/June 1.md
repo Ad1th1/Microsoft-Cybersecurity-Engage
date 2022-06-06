@@ -25,10 +25,12 @@
 
 - ARP Spoofing:
   > - man-in-the-middle attack -> a step towards sesion-hijacking
-  > - ARP Table combines MAC and IP addresses = cache
-  > - ARP provides physical address of host, given the IP address
+  > - ARP table combines MAC and IP addresses = cache
+  > - ARP -> Address Resolution Protocol
+  > - provides physical address of host, given the IP address
   > - ARP Poisoning
-
+  
+  
 - authentication: recipient can identify the sender
 - integrity: data in transit is not altered
 - confidentiality: transmitted data is only accessed by the receiver
@@ -37,4 +39,6 @@
   > - small piece of data used by web-servers to link different connections made by the same user
   > - less secure cookies = keyboard language
   > - more secure cookies = browsed web-pages
+
+- 
  
