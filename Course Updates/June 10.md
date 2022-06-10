@@ -51,5 +51,10 @@ Challenges:
 - Normalizing scores
 - high cost to detect slow changes
 - who will watch the watchers
-- 
 
+
+Silver trust architecture when someone leaves a company
+
+Microsoft said that an account had been compromised, "granting limited access," after the Lapsus$ group claimed that it leaked source code for the Bing search engine, Bing Maps and the Cortana virtual assistant.
+
+The reported 37GB of files were leaked Monday on the private Telegram channel of Lapsus$
