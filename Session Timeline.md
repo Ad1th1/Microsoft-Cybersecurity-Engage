@@ -62,18 +62,39 @@ Topics to focus on:
  - Assignment 6 -> Submitted
  - **to watch -> Linux bit an dread up on some stuff**
 
-**!** 31/5
- - **! Malware Analysis Tools, and Introduction to common vulnerabilities and exposures: Programs in C -> not attended due to class**
- - **! Assignment 7 -> yet to complete**
+31/5
+ - Malware Analysis Tools, and Introduction to common vulnerabilities and exposures: Programs in C -> not attended due to class
+ - Assignment 7 -> done
 
-**!** 1/6
- - **! Introduction to common network vulnerabilities: Password sniffing, how to use Wireshark, Session hijacking, ARP spoofing, Denial of service attack -> not attended due to class **
- - **!watch part 2 of video upto timestamp 8:50**
- - **! Assignment 7 -> yet to complete**
+1/6
+ - Introduction to common network vulnerabilities: Password sniffing, how to use Wireshark, Session hijacking, ARP spoofing, Denial of service attack -> not attended due to class 
+ -** watch part 2 of video upto timestamp 8:50**
+ - Assignment 7 -> done
 
-**!** 2/6
- - **! **!** 1/6
- - **! Cross Site Scripting (XSS), SQL injection, undesired data disclosures, Pentesting, and Metasploit. **
+2/6
+ - Cross Site Scripting (XSS), SQL injection, undesired data disclosures, Pentesting, and Metasploit - watched
+ - Assignment 8 -> done
+
+**! 6/6 **
+- **! Video on Final Assignment -> not watched **
+
+**! 7/6 **
+- **! Video -> not watched **
+
+**! 8/6 **
+- **! Video -> not watched **
+
+**! 9/6 **
+- **! Video -> not watched **
+
+**! 10/6 **
+- **! Video -> not watched **
+- Leader Talk on ML
+
+
+ 
+
+
 
 
 
