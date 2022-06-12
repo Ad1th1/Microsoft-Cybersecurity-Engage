@@ -45,6 +45,56 @@ MITRE Shield Tactics:
 7. Legitimize
 8. Test
 
+MITRE PRE-ATT&CK used to be it's own matrix:
+- contained a collection of tactics and techniques
+- mapped to the recon and weaponize stages of the cyberkill chain
 
+Now, PRE-ATT&CK is the first two stages of MITRE ATT&CK for enterprise framework
+- reconnaissance
+- resource development
+
+Reconnaisance -> information collection
+- active scanning : interact with system and learn about it
+- gather victim host, identity, networkn org information
+- phishing for info
+- search closed sources, open tech databases, open websites/domains and victim-owned websites
+
+
+Resource Development -> attacker developing or acquiring tools needed to perform the attack
+- acquire infrastructure
+- compromise accounts and infrastructure
+- develop capabilities
+- establish accounts
+- obtain capabilities
+
+- occurs primarily on attacker's infrastructure
+- depends on attacker's goals and resources
+
+Reconnaissance tactics being explored:
+- active scanning: network scanning
+- search open technical databases: DNS exploration
+
+_______________________________________________________________________________________
+
+Network Scanning:
+- Knowledge of target network is vital for an attacker  
+  - identification of potential target systems
+  - discovery of vulnerable applications
+
+- method of learning a target network architecture:
+  - port scanning 
+  - banner collection
+  - vulnerability scanning
+
+- active scanning
+  - scanning IP blocks
+  - vulnerability scanning
+
+
+scipy:
+- python libraries
+
+
+27 minutes
 
 
